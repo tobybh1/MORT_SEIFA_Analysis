@@ -1,0 +1,548 @@
+"LGA","IRSD","IRSAD","IER","IEO"
+"Albury",968,950,962,954
+"Armidale Regional",980,976,955,1010
+"Ballina",1015,996,1011,991
+"Balranald",960,934,970,915
+"Bathurst Regional",991,967,999,959
+"Bayside (NSW)",1004,1044,966,1051
+"Bega Valley",986,949,987,946
+"Bellingen",981,960,983,985
+"Berrigan",966,927,974,913
+"Blacktown",987,1006,1020,993
+"Bland",993,958,1001,939
+"Blayney",991,962,1020,942
+"Blue Mountains",1048,1042,1039,1063
+"Bogan",966,948,989,936
+"Bourke",947,954,947,980
+"Brewarrina",818,866,789,917
+"Broken Hill",913,892,919,887
+"Burwood",977,1050,926,1082
+"Byron",1021,1027,1009,1052
+"Cabonne",1023,995,1044,975
+"Camden",1045,1050,1098,1002
+"Campbelltown (NSW)",947,952,981,949
+"Canada Bay",1067,1116,1021,1123
+"Canterbury-Bankstown",917,966,949,996
+"Carrathool",973,953,980,941
+"Central Coast (NSW)",994,978,1005,967
+"Central Darling",827,869,853,929
+"Cessnock",939,908,984,876
+"Clarence Valley",940,910,963,901
+"Cobar",965,937,977,904
+"Coffs Harbour",972,954,982,953
+"Coolamon",983,951,1006,941
+"Coonamble",883,893,922,919
+"Cootamundra-Gundagai Regional",953,926,965,918
+"Cowra",932,908,950,908
+"Cumberland",904,961,931,995
+"Dubbo Regional",985,958,988,944
+"Dungog",1009,974,1040,945
+"Edward River",966,939,971,935
+"Eurobodalla",985,946,983,941
+"Fairfield",814,885,937,919
+"Federation",969,925,976,897
+"Forbes",969,941,977,938
+"Georges River",1011,1048,999,1060
+"Gilgandra",930,913,955,923
+"Glen Innes Severn",906,891,929,907
+"Goulburn Mulwaree",972,945,985,926
+"Greater Hume Shire",999,964,1018,956
+"Griffith",974,950,985,920
+"Gunnedah",967,940,989,909
+"Gwydir",957,936,978,947
+"Hawkesbury",1026,1008,1056,969
+"Hay",956,926,950,903
+"Hilltops",954,929,974,927
+"Hornsby",1082,1116,1082,1121
+"Hunters Hill",1101,1156,1088,1163
+"Inner West",1057,1118,993,1141
+"Inverell",928,906,950,899
+"Junee",934,918,977,904
+"Kempsey",903,881,943,882
+"Kiama",1070,1061,1062,1058
+"Ku-ring-gai",1108,1165,1117,1174
+"Kyogle",921,906,950,929
+"Lachlan",950,936,957,944
+"Lake Macquarie",1004,981,1011,963
+"Lane Cove",1105,1162,1058,1180
+"Leeton",949,922,979,896
+"Lismore",966,945,970,959
+"Lithgow",935,912,960,889
+"Liverpool",931,968,999,976
+"Liverpool Plains",926,905,951,896
+"Lockhart",976,950,1002,961
+"Maitland",988,963,1015,934
+"Mid-Coast",943,912,963,905
+"Mid-Western Regional",979,949,1002,919
+"Moree Plains",940,932,946,927
+"Mosman",1110,1169,1065,1185
+"Murray River",998,965,1007,940
+"Murrumbidgee",983,951,988,937
+"Muswellbrook",937,908,972,862
+"Nambucca Valley",920,898,946,906
+"Narrabri",964,936,975,912
+"Narrandera",929,910,950,907
+"Narromine",958,934,980,929
+"Newcastle",1012,1012,976,1023
+"North Sydney",1096,1164,985,1193
+"Northern Beaches",1089,1125,1087,1109
+"Oberon",978,948,1007,928
+"Orange",997,979,994,972
+"Parkes",946,922,959,914
+"Parramatta",1029,1070,983,1097
+"Penrith",991,981,1015,949
+"Port Macquarie-Hastings",985,958,991,954
+"Port Stephens",982,952,1004,928
+"Queanbeyan-Palerang Regional",1061,1062,1061,1046
+"Randwick",1059,1113,995,1122
+"Richmond Valley",924,892,961,871
+"Ryde",1055,1099,1007,1120
+"Shellharbour",983,962,1014,928
+"Shoalhaven",980,949,992,939
+"Singleton",998,965,1032,906
+"Snowy Monaro Regional",1020,991,1006,973
+"Snowy Valleys",952,923,976,908
+"Strathfield",1011,1066,961,1098
+"Sutherland Shire",1079,1090,1078,1064
+"Sydney",1031,1126,887,1158
+"Tamworth Regional",961,937,976,923
+"Temora",972,939,980,924
+"Tenterfield",920,903,935,925
+"The Hills Shire",1098,1136,1132,1112
+"Tweed",989,967,995,960
+"Upper Hunter Shire",975,943,999,912
+"Upper Lachlan Shire",1022,995,1038,988
+"Uralla",990,963,1002,977
+"Wagga Wagga",989,971,988,970
+"Walcha",992,970,999,978
+"Walgett",888,896,899,928
+"Warren",962,952,973,955
+"Warrumbungle Shire",927,914,952,929
+"Waverley",1092,1163,1009,1170
+"Weddin",961,942,978,951
+"Wentworth",974,949,989,941
+"Willoughby",1075,1142,1034,1162
+"Wingecarribee",1045,1031,1055,1020
+"Wollondilly",1041,1020,1093,960
+"Wollongong",1000,1000,993,999
+"Woollahra",1110,1176,1043,1193
+"Yass Valley",1065,1062,1094,1047
+"Unincorporated NSW",1046,1025,1034,1000
+"Alpine",1028,989,1006,993
+"Ararat",955,932,964,934
+"Ballarat",986,965,971,978
+"Banyule",1058,1064,1030,1079
+"Bass Coast",993,957,992,962
+"Baw Baw",1003,971,1020,960
+"Bayside (Vic.)",1090,1127,1075,1137
+"Benalla",968,938,973,942
+"Boroondara",1090,1131,1054,1153
+"Brimbank",912,928,961,940
+"Buloke",975,946,966,958
+"Campaspe",965,932,980,921
+"Cardinia",1021,993,1044,975
+"Casey",995,986,1038,978
+"Central Goldfields",898,867,921,871
+"Colac Otway",973,938,984,925
+"Corangamite",985,955,998,948
+"Darebin",1018,1044,969,1075
+"East Gippsland",963,931,970,932
+"Frankston",1003,982,1003,981
+"Gannawarra",952,919,964,912
+"Glen Eira",1075,1103,1027,1122
+"Glenelg",952,919,970,911
+"Golden Plains",1040,997,1076,965
+"Greater Bendigo",985,959,984,964
+"Greater Dandenong",887,918,943,943
+"Greater Geelong",1007,990,997,993
+"Greater Shepparton",944,931,965,941
+"Hepburn",1006,984,1001,1008
+"Hindmarsh",940,923,959,932
+"Hobsons Bay",1021,1034,1003,1043
+"Horsham",990,959,974,955
+"Hume",941,949,1004,958
+"Indigo",1029,996,1031,993
+"Kingston (Vic.)",1044,1048,1026,1051
+"Knox",1042,1029,1041,1021
+"Latrobe (Vic.)",931,907,942,899
+"Loddon",948,925,966,942
+"Macedon Ranges",1063,1047,1077,1039
+"Manningham",1056,1075,1059,1080
+"Mansfield",1028,989,1023,982
+"Maribyrnong",1010,1045,963,1076
+"Maroondah",1041,1035,1030,1042
+"Melbourne",1017,1086,838,1150
+"Melton",985,974,1031,962
+"Mildura",940,922,952,923
+"Mitchell",1000,968,1030,945
+"Moira",958,927,975,917
+"Monash",1042,1067,1016,1086
+"Moonee Valley",1041,1060,1006,1069
+"Moorabool",1017,987,1037,969
+"Moreland",1027,1049,969,1079
+"Mornington Peninsula",1038,1016,1038,1011
+"Mount Alexander",1007,987,993,1027
+"Moyne",1029,998,1037,996
+"Murrindindi",1005,971,1012,970
+"Nillumbik",1093,1088,1111,1074
+"Northern Grampians",951,921,959,916
+"Port Phillip",1061,1106,954,1144
+"Pyrenees",959,929,982,934
+"Queenscliffe",1082,1067,1029,1089
+"South Gippsland",1003,966,1010,966
+"Southern Grampians",994,962,986,964
+"Stonnington",1084,1130,992,1158
+"Strathbogie",982,954,985,965
+"Surf Coast",1086,1076,1076,1074
+"Swan Hill",941,927,952,921
+"Towong",1001,968,1007,970
+"Wangaratta",988,957,988,959
+"Warrnambool",995,961,982,957
+"Wellington",973,943,985,937
+"West Wimmera",991,971,1003,987
+"Whitehorse",1043,1067,1011,1093
+"Whittlesea",990,981,1018,980
+"Wodonga",973,947,981,948
+"Wyndham",1006,1004,1026,1007
+"Yarra",1046,1108,942,1149
+"Yarra Ranges",1041,1014,1054,1001
+"Yarriambiack",946,923,958,945
+"Unincorporated Vic",1012,1022,917,1008
+"Aurukun",501,700,546,833
+"Balonne",943,929,942,929
+"Banana",992,954,998,909
+"Barcaldine",1002,971,989,956
+"Barcoo",988,959,1002,879
+"Blackall Tambo",961,930,976,903
+"Boulia",878,890,864,898
+"Brisbane",1045,1061,1012,1076
+"Bulloo",990,942,972,873
+"Bundaberg",924,898,954,891
+"Burdekin",966,923,969,890
+"Burke",941,928,899,927
+"Cairns",981,966,971,972
+"Carpentaria",851,862,837,852
+"Cassowary Coast",929,902,941,888
+"Central Highlands (Qld)",996,961,1003,914
+"Charters Towers",933,908,945,894
+"Cherbourg",498,660,561,814
+"Cloncurry",965,939,936,903
+"Cook",913,912,885,937
+"Croydon",876,890,839,867
+"Diamantina",952,942,884,898
+"Doomadgee",534,696,580,846
+"Douglas",979,944,967,936
+"Etheridge",982,961,968,949
+"Flinders (Qld)",970,945,960,930
+"Fraser Coast",915,890,954,886
+"Gladstone",954,926,975,898
+"Gold Coast",1019,1009,1015,1001
+"Goondiwindi",965,938,976,921
+"Gympie",930,896,972,889
+"Hinchinbrook",954,911,953,884
+"Hope Vale",631,722,634,815
+"Ipswich",958,940,980,934
+"Isaac",1012,971,993,905
+"Kowanyama",528,686,509,765
+"Livingstone",1005,970,1030,935
+"Lockhart River",622,744,582,794
+"Lockyer Valley",948,921,997,902
+"Logan",944,930,985,916
+"Longreach",1003,976,967,967
+"Mackay",999,961,1007,917
+"McKinlay",1014,977,1017,937
+"Mapoon",567,700,569,795
+"Maranoa",995,966,988,944
+"Mareeba",937,921,952,922
+"Moreton Bay",992,970,1012,955
+"Mornington",609,747,588,899
+"Mount Isa",972,954,938,927
+"Murweh",948,930,943,930
+"Napranum",623,738,619,818
+"Noosa",1030,1009,1029,1003
+"North Burnett",902,888,943,887
+"Northern Peninsula Area",702,792,636,881
+"Palm Island",567,707,570,851
+"Paroo",866,884,857,921
+"Pormpuraaw",547,706,512,759
+"Quilpie",998,969,980,942
+"Redland",1024,1003,1041,979
+"Richmond",1009,975,1005,924
+"Rockhampton",949,924,960,910
+"Scenic Rim",986,959,1019,949
+"Somerset",944,913,998,896
+"South Burnett",907,885,945,888
+"Southern Downs",939,909,964,900
+"Sunshine Coast",1022,1001,1023,991
+"Tablelands",955,926,961,924
+"Toowoomba",979,959,983,959
+"Torres",904,939,824,981
+"Torres Strait Island",649,777,628,885
+"Townsville",990,966,981,962
+"Weipa",1058,1036,1011,944
+"Western Downs",946,922,969,912
+"Whitsunday",969,935,977,899
+"Winton",993,959,972,932
+"Woorabinda",492,659,513,816
+"Wujal Wujal",510,692,542,862
+"Yarrabah",512,678,569,788
+"Adelaide",1002,1058,856,1137
+"Adelaide Hills",1081,1066,1083,1070
+"Adelaide Plains",988,943,1040,894
+"Alexandrina",988,949,1007,941
+"Anangu Pitjantjatjara Yunkunytjatjara",496,706,519,889
+"Barossa",1014,976,1025,955
+"Barunga West",950,932,966,947
+"Berri Barmera",907,887,929,882
+"Burnside",1083,1102,1050,1131
+"Campbelltown (SA)",1021,1012,990,1030
+"Ceduna",943,927,928,926
+"Charles Sturt",1001,993,969,1005
+"Clare and Gilbert Valleys",998,963,994,960
+"Cleve",989,952,988,949
+"Coober Pedy",868,868,832,868
+"Copper Coast",924,892,950,873
+"Elliston",959,952,962,988
+"Flinders Ranges",933,907,944,902
+"Franklin Harbour",959,923,970,906
+"Gawler",960,931,968,926
+"Goyder",947,914,957,919
+"Grant",1026,974,1055,927
+"Holdfast Bay",1047,1044,999,1062
+"Kangaroo Island",991,952,982,945
+"Karoonda East Murray",956,930,975,946
+"Kimba",1020,985,1007,986
+"Kingston (SA)",977,942,987,910
+"Light",1027,981,1055,949
+"Lower Eyre Peninsula",1033,982,1037,953
+"Loxton Waikerie",958,925,967,911
+"Maralinga Tjarutja",644,823,641,1043
+"Marion",1008,994,974,1013
+"Mid Murray",914,882,952,874
+"Mitcham",1075,1073,1050,1094
+"Mount Barker",1037,1004,1038,1002
+"Mount Gambier",924,893,928,883
+"Mount Remarkable",974,950,990,958
+"Murray Bridge",891,866,923,853
+"Naracoorte Lucindale",978,949,986,929
+"Northern Areas",979,948,975,957
+"Norwood Payneham and St Peters",1038,1052,974,1090
+"Onkaparinga",987,951,991,945
+"Orroroo Carrieton",1006,980,1000,986
+"Peterborough",773,783,853,825
+"Playford",852,850,911,852
+"Port Adelaide Enfield",953,953,937,978
+"Port Augusta",889,877,892,870
+"Port Lincoln",948,915,936,900
+"Port Pirie",889,868,902,866
+"Prospect",1054,1058,1000,1085
+"Renmark Paringa",923,899,949,879
+"Robe",1023,984,1006,965
+"Roxby Downs",1048,1004,1010,919
+"Salisbury",904,898,945,902
+"Southern Mallee",997,962,985,944
+"Streaky Bay",1000,960,977,945
+"Tatiara",982,950,1004,926
+"Tea Tree Gully",1030,996,1016,985
+"Coorong",939,911,956,910
+"Tumby Bay",993,954,979,955
+"Unley",1067,1084,1014,1119
+"Victor Harbor",962,927,970,925
+"Wakefield",921,897,957,892
+"Walkerville",1075,1097,1035,1123
+"Wattle Range",942,906,963,892
+"West Torrens",1015,1010,960,1029
+"Whyalla",883,868,879,865
+"Wudinna",1009,972,987,959
+"Yankalilla",978,942,991,938
+"Yorke Peninsula",952,918,961,910
+"Unincorporated SA",905,904,865,895
+"Albany",987,955,997,941
+"Armadale",990,971,1025,947
+"Ashburton",1024,979,973,902
+"Augusta Margaret River",1031,999,1036,993
+"Bassendean",1015,1005,994,1015
+"Bayswater",1018,1017,994,1028
+"Belmont",987,985,953,995
+"Beverley",956,932,986,927
+"Boddington",976,944,1011,894
+"Boyup Brook",995,969,1006,972
+"Bridgetown-Greenbushes",1000,962,1018,945
+"Brookton",944,919,984,894
+"Broome",962,983,934,985
+"Broomehill-Tambellup",961,961,1000,988
+"Bruce Rock",979,958,989,952
+"Bunbury",944,921,951,907
+"Busselton",1019,985,1038,958
+"Cambridge",1113,1153,1107,1160
+"Canning",1023,1024,1011,1033
+"Capel",1016,982,1051,948
+"Carnamah",965,937,958,924
+"Carnarvon",926,918,913,908
+"Chapman Valley",1027,999,1057,959
+"Chittering",1030,1003,1100,947
+"Christmas Island",971,972,943,957
+"Claremont",1081,1124,1043,1157
+"Cockburn",1033,1020,1042,1002
+"Cocos Islands",850,903,980,896
+"Collie",908,872,958,824
+"Coolgardie",897,874,923,829
+"Coorow",978,940,1001,916
+"Corrigin",1023,982,1025,971
+"Cottesloe",1112,1157,1086,1175
+"Cranbrook",964,951,987,965
+"Cuballing",972,946,1002,923
+"Cue",898,887,895,920
+"Cunderdin",1008,964,990,939
+"Dalwallinu",1056,1024,1039,1011
+"Dandaragan",995,961,1014,925
+"Dardanup",1006,961,1040,906
+"Denmark",1003,981,1003,1014
+"Derby-West Kimberley",734,818,731,899
+"Donnybrook-Balingup",987,961,1025,934
+"Dowerin",983,970,977,992
+"Dumbleyung",1009,989,1014,1007
+"Dundas",855,851,872,850
+"East Fremantle",1082,1109,1066,1123
+"East Pilbara",939,946,893,929
+"Esperance",995,960,1002,926
+"Exmouth",1038,1002,997,946
+"Fremantle",1031,1054,991,1093
+"Gingin",975,947,1018,910
+"Gnowangerup",996,973,1004,974
+"Goomalling",998,959,997,940
+"Gosnells",975,962,1010,944
+"Greater Geraldton",965,941,984,917
+"Halls Creek",540,702,572,836
+"Harvey",998,960,1042,907
+"Irwin",966,931,984,898
+"Jerramungup",1025,996,1020,995
+"Joondalup",1072,1061,1085,1038
+"Kalamunda",1034,1009,1053,977
+"Kalgoorlie-Boulder",1008,980,1010,920
+"Karratha",1052,1035,1019,956
+"Katanning",907,898,943,876
+"Kellerberrin",920,899,941,900
+"Kent",1072,1034,1041,1019
+"Kojonup",997,979,999,983
+"Kondinin",978,959,993,958
+"Koorda",980,946,983,901
+"Kulin",1045,1024,1047,1023
+"Kwinana",971,949,1003,925
+"Lake Grace",1051,1022,1040,1013
+"Laverton",751,813,738,904
+"Leonora",948,924,922,879
+"Mandurah",959,936,998,912
+"Manjimup",959,928,982,908
+"Meekatharra",848,871,831,896
+"Melville",1070,1081,1058,1086
+"Menzies",860,858,825,870
+"Merredin",971,937,971,914
+"Mingenew",1007,970,1028,943
+"Moora",959,935,975,918
+"Morawa",943,929,945,932
+"Mosman Park",1061,1107,1047,1135
+"Mount Magnet",864,858,890,898
+"Mount Marshall",980,973,986,990
+"Mukinbudin",1025,996,1023,990
+"Mundaring",1042,1020,1072,992
+"Murchison",834,885,832,1013
+"Murray",962,931,1026,884
+"Nannup",978,955,988,952
+"Narembeen",1028,997,1035,969
+"Narrogin",964,942,955,927
+"Nedlands",1115,1159,1108,1176
+"Ngaanyatjarraku",509,717,541,885
+"Northam",938,914,974,892
+"Northampton",954,923,983,892
+"Nungarin",979,960,979,961
+"Peppermint Grove",1111,1161,1120,1161
+"Perenjori",1044,1023,1023,1031
+"Perth",1040,1081,901,1128
+"Pingelly",907,900,931,917
+"Plantagenet",949,929,989,935
+"Port Hedland",1011,997,972,933
+"Quairading",964,941,981,939
+"Ravensthorpe",1002,970,983,949
+"Rockingham",989,962,1025,929
+"Sandstone",954,906,960,870
+"Serpentine-Jarrahdale",1028,995,1090,935
+"Shark Bay",970,942,935,915
+"South Perth",1066,1086,1015,1114
+"Stirling",1027,1035,1005,1048
+"Subiaco",1079,1119,1009,1167
+"Swan",995,974,1033,944
+"Tammin",959,942,974,948
+"Three Springs",963,947,964,955
+"Toodyay",986,952,1018,931
+"Trayning",909,896,920,952
+"Upper Gascoyne",910,920,805,960
+"Victoria Park",1030,1042,965,1071
+"Victoria Plains",1028,1004,1031,978
+"Vincent",1068,1097,1000,1126
+"Wagin",947,921,970,906
+"Wandering",1004,982,1038,962
+"Wanneroo",1005,988,1048,961
+"Waroona",936,908,999,860
+"West Arthur",1028,1007,1017,1008
+"Westonia",1030,1004,984,997
+"Wickepin",994,967,1009,959
+"Williams",1030,1008,1039,1006
+"Wiluna",773,821,741,954
+"Wongan-Ballidu",963,936,971,936
+"Woodanilling",1003,982,994,1015
+"Wyalkatchem",899,898,902,942
+"Wyndham-East Kimberley",899,934,860,965
+"Yalgoo",900,870,870,853
+"Yilgarn",973,955,965,916
+"York",968,938,980,934
+"Break O'Day",911,881,930,896
+"Brighton",885,862,924,849
+"Burnie",920,895,924,890
+"Central Coast (Tas.)",958,923,969,914
+"Central Highlands (Tas.)",911,888,948,886
+"Circular Head",943,908,966,884
+"Clarence",1009,989,992,992
+"Derwent Valley",913,879,950,856
+"Devonport",906,883,920,884
+"Dorset",932,900,957,887
+"Flinders (Tas.)",963,947,941,968
+"George Town",860,846,906,846
+"Glamorgan-Spring Bay",950,924,962,920
+"Glenorchy",927,911,914,918
+"Hobart",1046,1062,970,1104
+"Huon Valley",974,946,985,958
+"Kentish",953,918,986,898
+"King Island",993,955,987,941
+"Kingborough",1038,1020,1013,1039
+"Latrobe (Tas.)",974,928,982,905
+"Launceston",939,926,929,941
+"Meander Valley",976,940,983,924
+"Northern Midlands",966,929,975,912
+"Sorell",991,946,993,932
+"Southern Midlands",951,911,1000,887
+"Tasman",923,902,943,931
+"Waratah-Wynyard",929,900,947,896
+"West Coast",861,844,887,832
+"West Tamar",1004,970,999,970
+"Alice Springs",994,1004,955,1014
+"Barkly",670,790,698,887
+"Belyuen",471,662,475,801
+"Central Desert",524,697,589,865
+"Coomalie",909,900,906,916
+"Darwin",1027,1036,979,1041
+"Darwin Waterfront Precinct",1117,1165,960,1174
+"East Arnhem",486,694,525,866
+"Katherine",961,965,925,976
+"Litchfield",1030,1014,1061,959
+"MacDonnell",566,727,590,861
+"Palmerston",1009,998,991,972
+"Roper Gulf",534,709,564,867
+"Tiwi Islands",564,729,540,860
+"Victoria Daly",590,729,618,833
+"Wagait",985,970,955,1006
+"West Arnhem",530,728,534,881
+"West Daly",439,677,488,899
+"Unincorporated NT",1044,1014,967,984
+"Unincorporated ACT",1071,1091,1037,1108
+"Unincorp. Other Territories",989,952,952,961
